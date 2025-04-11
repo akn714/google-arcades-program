@@ -5,15 +5,15 @@
 [view your arcade points here](https://arcadecalc.netlify.app/dashboard)
 
 ## Completed Badges
-[ ] Level 1
-[x] Level 2
-[x] Level 3
-[ ] TechCare
-[ ] Base Camp April
-[x] Week 1
-[x] Week 2
-[ ] Week 3
-[ ] Week 4
+- [ ] Level 1
+- [x] Level 2
+- [x] Level 3
+- [ ] TechCare
+- [ ] Base Camp April
+- [x] Week 1
+- [x] Week 2
+- [ ] Week 3
+- [ ] Week 4
 
 ### Others
-[x] 7 free lab badges
+- [x] 7 free lab badges
