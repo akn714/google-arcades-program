@@ -8,7 +8,7 @@
 - [ ] Level 1
 - [x] Level 2
 - [x] Level 3
-- [ ] TechCare
+- [x] TechCare
 - [ ] Base Camp April
 - [x] Week 1
 - [x] Week 2
