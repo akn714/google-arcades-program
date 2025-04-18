@@ -5,7 +5,7 @@
 [view your arcade points here](https://arcadecalc.netlify.app/dashboard)
 
 ## Completed Badges
-- [ ] Level 1
+- [x] Level 1
 - [x] Level 2
 - [x] Level 3
 - [x] TechCare
