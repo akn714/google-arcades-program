@@ -8,7 +8,5 @@
 - [ ] [Analyze BigQuery Data in Connected Sheets](https://www.google.com/url?q=https://www.cloudskillsboost.google//course_templates/632?catalog_rank%3D%257B%2522rank%2522%253A49%252C%2522num_filters%2522%253A1%252C%2522has_search%2522%253Afalse%257D&sa=D&source=editors&ust=1745116278362184&usg=AOvVaw1xmlyxzzdIyidb-i7a3U4K)
 
 
-export project=qwiklabs-gcp-01-4aa83194d2e1
-export region=us-east1
-export function_name=cs-logger
-export http_function=http-dispatcher
+Github account: sajicij253@ancewa.com (@#$&abcd1234)
+pending: https://www.cloudskillsboost.google/course_templates/716/labs/515633
