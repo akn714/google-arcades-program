@@ -10,3 +10,7 @@
 
 Github account: sajicij253@ancewa.com (@#$&abcd1234)
 pending: https://www.cloudskillsboost.google/course_templates/716/labs/515633
+
+
+export METRIC=big_video_upload_rate
+export VALUE=5
