@@ -1,0 +1,6 @@
+export ZONE=us-west1-c
+export MON_IDENT=fancy-monolith-566
+export CLUSTER=fancy-production-641
+export ORD_IDENT=fancy-orders-519
+export PROD_IDENT=fancy-products-385
+export FRONT_IDENT=fancy-frontend-284

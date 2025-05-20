@@ -1,0 +1,4 @@
+export IAP_NET_TAG=grant-ssh-iap-ingress-ql-982
+export INT_NET_TAG=grant-ssh-internal-ingress-ql-982
+export HTTP_NET_TAG=grant-http-ingress-ql-982
+export ZONE=europe-west4-b
