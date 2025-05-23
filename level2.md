@@ -11,3 +11,6 @@ curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/P
 sudo chmod +x gsp003.sh
 
 ./gsp003.sh
+
+
+AIzaSyBwssrtHy3PVg_5AqBy-VvuZVFpOLEOh4g
